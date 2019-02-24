@@ -1,0 +1,56 @@
+section{
+  width: 100%;
+  margin-top: 100px;
+}
+header{
+  width: 100%;
+}
+h1, p, li{
+  font-size: 10px;
+}
+h1{
+  font-size: 2em;
+  text-align: center;
+  margin: 0 0 0 0;
+}
+p{
+  font-size: 1.2em;
+  text-align: center;
+  margin: 0 0 0 0;
+}
+form{
+  margin-top: 20px;
+  text-align: center;
+}
+input{
+  width: 30%;
+  padding: 3px 5px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+#enterName{
+  padding: 3px 7px;
+  border-radius: 10px;
+  border: 1px solid rgb(47,79,79);
+  background: rgb(119,136,153);
+  color: rgb(211,211,211);
+}
+#listStudents{
+  float: left;
+  margin: 10px 0 0 48%;
+  font-size: 1.2em;
+  padding: 5px 9px;
+  border-radius: 12px;
+  border: 1px solid rgb(0,100,0);
+  background: rgb(85,107,47);
+  color: rgb(211,211,211);
+}
+ul{
+  margin-top: 50px;
+}
+li{
+  text-align: center;
+  clear: both;
+  list-style: none;
+  font-size: 1.5em;
+}
